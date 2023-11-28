@@ -30,9 +30,6 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredygsorto&theme=dark" alt="fredygsorto" />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=fredygsorto&theme=xcode" alt="GitHub Activity Graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fredygsorto&theme=dark" alt="Wakatime
 
 
 
