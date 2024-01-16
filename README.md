@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://fredygsorto.netlify.app/](https://fredygsorto.netlify.app/)
 
-- 💬 Ask me about **Java, Python, and JavaScript**
-
 - 📫 How to reach me **fredygsorto@gmail.com**
 
 - 📄 Know about my experiences [https://fredygsorto.netlify.app/assets/FredySorto_Resume.pdf](https://fredygsorto.netlify.app/assets/FredySorto_Resume.pdf)
