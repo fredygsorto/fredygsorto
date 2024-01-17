@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Fredy Sorto.</h1>
+<h1 align="center">Hello 👋, I'm Fredy.</h1>
 <h3 align="center">A passionate software developer from NYC🗽.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredygsorto&label=Profile%20views&color=000000&style=flat-square" alt="fredygsorto" /> </p>
