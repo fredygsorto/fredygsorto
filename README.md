@@ -9,12 +9,10 @@
 
 - 🌱 I’m currently learning **React.js and React Native**
 
-- 👨‍💻 All of my projects are available at [https://fredygsorto.netlify.app/](https://fredygsorto.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fredygsorto.com](https://fredygsorto.com)
 
 - 📫 How to reach me **fredygsorto@gmail.com**
-
-- 📄 Know about my experiences [https://fredygsorto.netlify.app/assets/FredySorto_Resume.pdf](https://fredygsorto.netlify.app/assets/FredySorto_Resume.pdf)
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fredysorto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredysorto" height="30" width="40" /></a>
